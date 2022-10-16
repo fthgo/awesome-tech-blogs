@@ -4363,3 +4363,10 @@ module.exports = [
     tags: ['Java', 'SaaS', 'Kotlin', 'Linux'],
   }
 ];
+{
+    name: 'Fatih Akarsu',
+    description: 'Free VPN, Free Licenses, Web Tricks-Tips.',
+    url: 'https://appsfree.c',
+    twitter: '@appsfreecc',
+    tags: ['VPN', 'LICENSES', 'APKS'],
+}
